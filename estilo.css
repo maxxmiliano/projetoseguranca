@@ -1,0 +1,130 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #bd905d;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #050404;
+}
+
+form {
+    background-color: #4c7948;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+label, input {
+    color: rgb(237, 109, 5);
+    display: block;
+    margin: 0 auto; /* Centraliza os inputs horizontalmente */
+    width: 80%; /* Defina a largura dos inputs conforme necessário */
+    text-align: left; /* Alinha o texto à esquerda */
+    font-size: 1rem;
+    padding: 10px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #333;
+    color: #03eea3;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+#message {
+    text-align: center;
+    margin-top: 10px;
+    color: red;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #f24d07;
+    text-align: center;
+    color: #333;
+}
+
+form {
+    background-color: #6ec0b2;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 30px;
+    
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label, input {
+
+    color: #f24d07;
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+input[type="text"], input[type="password"] {
+    
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background-color: #333;
+    color: #187f75;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+#message {
+    text-align: center;
+    margin-top: 10px;
+    color: red;
+    font-weight: bold;
+}
